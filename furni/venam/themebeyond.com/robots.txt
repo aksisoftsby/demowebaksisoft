@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+<div style="overflow: auto; position: absolute; height: 0pt; width: 0pt;">
+<a href="www.istanbulartsnob.com/escortbayan/anadolu-yakasi-escort/atasehir-escort" title="ataşehir escort" rel="dofollow">ataşehir escort</a>
+</div>
+<div style="overflow: auto; position: absolute; height: 0pt; width: 0pt;">
+<a href="www.istanbullies.com/ad-category/atakoy-escort/" title="ataköy escort" rel="dofollow">ataköy escort</a>
+</div>
+<div style="overflow: auto; position: absolute; height: 0pt; width: 0pt;">
+<a href="www.smart-host.org/ad-category/beylikduzu-escort" title="beylikdüzü escort" rel="dofollow">beylikdüzü escort</a>
+</div>
+<div style="display:none;"> 
+<a href="http://izmirescortlife.com/escort/cesme-escort" title="çeşme escort">çeşme escort</a>
+</div>
+<div style="display: none;">
+
+<a title="kurtköy escort" href="http://naturyzm.net/kurtkoy-escort/" rel="dofollow">kurtköy escort</a>
+
+<a title="escort pendik" href="http://www.istanbulescorthatun.net/" rel="dofollow">escort pendik</a>
+</div>
